@@ -1,0 +1,545 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="---??| BEIN SPORT |??---" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="BEIN SPORTS MENA",---??| BEIN SPORT |??---
+http://x.v-iptv.com:25443/live/rita33/novert6622/22460.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS NEWS HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS NEWS HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9152.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS NEWS FHD " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS NEWS FHD 
+http://x.v-iptv.com:25443/live/rita33/novert6622/92512.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS GLOBAL
+http://x.v-iptv.com:25443/live/rita33/novert6622/9156.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS GLOBAL HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/30750.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS GLOBAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS GLOBAL FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/92511.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 1 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 1 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32008.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9146.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 1 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9147.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS PREMIUM 1 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 1 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30756.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 1 FHD HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 1 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/39224.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 2 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 2 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32007.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9148.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 2 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9149.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS PREMIUM 2 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 2 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30757.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 2 FHD HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 2 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/39225.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 3 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 3 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32006.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 3 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9150.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|.AR.| BEIN SPORTS PREMIUM 3 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 3 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9151.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS PREMIUM 3 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 3 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30758.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS PREMIUM 3 FHD HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS PREMIUM 3 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/39226.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32015.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9131.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 FHD" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32146.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 FHD 4K" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30749.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/28265.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 SD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32014.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9134.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9135.ts
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="|.AR.| BEIN SPORTS 2 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30751.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/28266.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 SD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32013.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9136.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 FHD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9137.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30752.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/28267.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32012.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9138.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/103764.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30755.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/28268.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32011.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9140.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9141.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30754.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/28269.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9142.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9143.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30759.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/28270.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/32009.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9144.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9145.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 FHD 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/30760.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 FHD HEVC
+http://x.v-iptv.com:25443/live/rita33/novert6622/28271.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS ENGLISH 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9153.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS ENGLISH 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9154.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS ENGLISH 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9155.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS XTRA 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS XTRA 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/119957.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS XTRA 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS XTRA 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/119958.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS FRENCH 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124099.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS FRENCH 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124097.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 3 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS FRENCH 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124098.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 1 MAX SD (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 MAX SD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124070.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 1 MAX HD (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124071.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 1 MAX FHD (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 MAX FHD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124072.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 1 MAX FHD HEVC (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 MAX FHD HEVC (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124073.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 1 MAX 4K (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 MAX 4K (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124074.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 2 MAX SD (WC QATAR 2022)" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 MAX SD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124075.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 2 MAX HD (WC QATAR2022)" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 MAX HD (WC QATAR2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124076.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 2 MAX FHD (WC QATAR 2022)" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 MAX FHD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124077.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 2 MAX FHD HEVC (WC QATAR 2022)" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 MAX FHD HEVC (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124078.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 2 MAX 4K (WC QATAR 2022)" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 MAX 4K (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124079.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 3 MAX SD (WC QATAR 22)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 MAX SD (WC QATAR 22)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124080.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 3 MAX HD (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124081.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 3 MAX FHD (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 MAX FHD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124082.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 3 MAX FHD HEVC (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 MAX FHD HEVC (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124083.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 3 MAX 4K (WC QATAR 2022)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 MAX 4K (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124084.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 4 MAX SD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 MAX SD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124085.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 4 MAX HD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124086.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 4 MAX FHD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 MAX FHD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124087.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 4 MAX FHD HEVC (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 MAX FHD HEVC (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124088.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 4 MAX 4K (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 MAX 4K (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124089.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 5 MAX SD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 MAX SD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124090.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 5 MAX HD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124091.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 5 MAX FHD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 MAX FHD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124092.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 5 MAX FHD HEVC (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 MAX FHD HEVC (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124093.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 5 MAX 4K (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 MAX 4K (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124094.ts
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|.AR.| BEIN SPORTS 6 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124095.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 6 MAX HD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 MAX HD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/124096.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 6 MAX FHD (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 MAX FHD (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/152293.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 6 MAX FHD HEVC (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 MAX FHD HEVC (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/248954.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 6 MAX 4K (WC QATAR 2022)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 MAX 4K (WC QATAR 2022)
+http://x.v-iptv.com:25443/live/rita33/novert6622/248955.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT
+http://x.v-iptv.com:25443/live/rita33/novert6622/39203.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15191.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/51166.ts
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT",|FR| CANAL+ FOOT
+http://x.v-iptv.com:25443/live/rita33/novert6622/136367.ts
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT HD" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT",|FR| CANAL+ FOOT HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/136368.ts
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT",|FR| CANAL+ FOOT FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/136369.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT 360
+http://x.v-iptv.com:25443/live/rita33/novert6622/136372.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT 360 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/136371.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT 360 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/136370.ts
+#EXTINF:-1 tvg-id="Telefoot.fr" tvg-name="|FR| CANAL+ LIGUE 1 FHD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FimRoww_image-result-for-la-ligue-1-logo-ligue%2F&psig=AOvVaw0nYrA7uXZxHF0ITlKDSEBP&ust=1613386009982000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDc7NOZ6e4CFQAAAAAdAAAAABAD" group-title="FRANCE SPORT",|FR| CANAL+ LIGUE 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108268.ts
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE HD" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",|FR| CANAL+ PREMIER LEAGUE HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/125118.ts
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",|FR| CANAL+ PREMIER LEAGUE FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/115017.ts
+#EXTINF:-1 tvg-id="CanalPlusTop14.fr" tvg-name="|FR| CANAL+ TOP14 FHD" tvg-logo="https://www.universfreebox.com/UserFiles/image/canalplustop14.png" group-title="FRANCE SPORT",|FR| CANAL+ TOP14 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108537.ts
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="|FR| CANAL+ FORMULA1 HD" tvg-logo="data:image/jpeg;base64,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" group-title="FRANCE SPORT",|FR| CANAL+ FORMULA1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/125119.ts
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="|FR| CANAL+ FORMULA1 FHD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDw8PDw8QDw8PDw8VFhAPFQ8PDxUOFRUWFhUVFRcYHSggGB0lHhYVITMhJikrLi4xFx8zOzMsNygtLisBCgoKDg0OGBAQGi0mHiYtLysuKystLSstLS0tLystKy0tLSsxKy0tKysrKy4tLS0tLS0tLSstKystLS0tLSstLf/AABEIALcBEwMBEQACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAAAQQFBgcIAwL/xABQEAABAwIDAwMOCwUGBQUAAAABAAIDBBEFEiEGEzEHIkEUFTJRU1RhcXKBkZOx0QgjM0JSdIKSocHSJTVDYrMXY4Oyw+IWVXOi8SREo8Lh/8QAGgEBAQADAQEAAAAAAAAAAAAAAAECAwQFBv/EADwRAAIBAgMDCQcCBQQDAAAAAAABAgMRBBIxBSGBEzJBUVJxkaHRFCJCYbHB8FPhBhUzgpIkYqLxIzRD/9oADAMBAAIRAxEAPwDby3nGEAQBCgIAhAgCFCAIQIQIUICEISgCFCAIQlDIhAEIEIShkQgCAIAgCECAIQICEKShUEAQBCWJQoQBAEAQEIAhAoAFSAIVBChCEIQlChChDEIZBAEAQgUAVKEDF0MQhQgCAIAgCAICUKEBCAICUAQEIAgJQBAEBCEYCBEoUhAEIEIEKEAQhKGQQBAQgChAqEEKFCBUBCBAEMggCAIAgBQEoAgCAIAUIQEBKFCAICFCEqlIQgQoQgQgQEhCkIQlDIhAEIEKSgCAhAEAQgQBAEKEIShSEAQEoCEIShQgCAID5ke1oLnENaBcucQ1oHhJ4ICm650/fEHrI/epdFsx1zp++IPWR+9W6FmOudP3xB6yP3pdCzHXOn74g9ZF71LoWfUOudP3xB6yP3pdEsx1zp++IPWRe9LoWY650/fEHrI/el0WzHXOn74g9ZH71boWY650/fEHrI/el0TK+odc6fviD1kXvUuhZjrnT98Qesi96XQs+odc6fviD1kfvS6GV9Q650/fEHrI/el0WzHXOn74g9ZH70uiWY650/fEHrI/el0LMdc6fviD1kfvS6LZjrnT98Qesj96XJZjrnT98Qesj96XRbMdc6fviD1kfvS6FmOudP3xB6yP3pdCzHXOn74g9ZH70uhZjrnT98Qesj96XQsx1zp++IPWR+9W6FmOudP3xB6yP3qXRLM94ZmPGZj2vbe12EOF+1cKoHogIQBASgCAIAgCAIDHOUb9z4l9Vk/JSWhlDnI5RWk6QgL/AIVsVidW0Pp6CoewgEPyFjCD0tc6wPmQDFNicUpWl89BUsYASXhjnsA8Lm3A86AsCA+mMLiGtBc5xAAGpJPAAdKAq+tNT3tP6uT3ICkewtJa4Frmkgg6EEcQR0ICGtJIABJJsANST2ggKrrXUd7zerk9yApEB6wU75LiNj3kC5DAXEDw2QEzUsjBd8b2C9rua5ov2tUB4oD3p6KWQExxSSAcSxrngHw2CA+psPnjbmfDKxo+c9j2t9JCApkB709HLLcxxSSAccjXPt47BAKijlisZIpIweBe1zL+K4QHggPajpJJ3tihjfNK++WOJrpJHWFzZrdToCfMgLlNsriLGue/Dq1jGNLnPdT1DWtYBcuJLbAAa3QFnQBAdIchn7mZ9ZqPa1bIaHPU5xsBZmsICUKEAQBAEAQgQpjnKN+58S+qyKS0Moc5HKK0nSdDcj/JlDBBFiFdEJaqUNfHFILshjOrDlPF50Nzw04EEoDY+O7SUVAAayqip818rXu57gOJawc53mCEKHB9vcKrHiOnr4XSONgxxdE9x7TRIAXHxIU515ZJIzjlaIo2RtYY2ndgNDpBG0vcbdOYnXwIDJ/g97Lb+rkxKVt4qPmR34GqeNT9lp9L2noQHQ6EOV+W3Dep8bqiBZtQ2KZv2mgOP32vQpbeS6j32NYay17VLH+qBk/+iA66QhzPy5bIdQ13VcTbU1cXO04MqeMjfADfMPG4dCFMo+DTRm2JTngTTxjxjO53tagKz4SlZaloIL/KVEklv+mzL/qoDQTGlxAAJJIAA1JJ4ABAdc8m2zAwrDYKYgb5w3kxHTUPAzC/TlADfsoBynYd1Vg2IRWuRTukAHHPFaUW87EIciIU6M+DnRlmGVEpHy1Y63hYyNg9pcgMe+EtV3lw6C/Yx1EhHluY0H/sd6UBpRAZpyN/v7D/AC5v6EiA6V21/deJfUKz+i9CHGyFCA6Q5DP3Mz6zUe1q2w0NFTU2CsjWEAQBAEAUAVAQgQpjnKN+58S+qyfkpLQyhzkczbKULanEKGncLsmq6djh/I6Rod+BK0nSdlTSBjHOPBjSbDtAXQhxltFjU1fVTVdQ4ukleTYm4a35rG9oAWA8SFLagKiKOWpmaxuaWeeRrRc5nvleQALniSSEB1/sfgMeF4fBSNI+JjvI/gHSnnSP16Lk+IWHQhDGOS3bTrrU4xqcjKqN8IPezm7tth0fJBxHbkKFMK+ErhtpaCrA7OOWFzvIIewf98noQGOcgNGJMbY8/wACmqJB4yBF/qFAdAbXbSRYZBHUTfJuqYYnH6LZDYv+yLnzFCHxtrs7HitBNSOIvI3NHJxDJhqx48HQe2Ce2gMT5BcIkpMNnbMwsldX1Ac02u0xhkRafE5j0KYJ8JGtzV9HB0RUhf55ZHD2Rj0oC2chOyvVuI9VSNvT0GV+vB1Sfkh5rF32W9tAba5Z9qXYbhpETstTVv3UZHFreMj/ADN08bwgMzo52VVNHINY6iFjvGyRoPsKEOMcVojT1E9O7V0E0sZ8pji0+xCnUXIvRmHAqEEWdIJpD4nyvLT93KgNPfCBrN5jJYD8hSwMI7ROaT2SBAZpyH7L0FXhRlqaKnnk6qmbnljY92UBlhcjhqUBsmg2Qw2nlbNBQU0MrL5ZI42Ne0kEGxA00JHnQhd6iBkrHxyNa+ORrmuY4BzXMcLOaQeIIJFkBYv+BsJ/5ZReoh9yA545acOgpsYlip4Y4IhDARHE1sbLlupsNEKbW5C/3Mz6zUe1q2w0NFTU2AsjWEAQBAEASwCAIAgMc5Rv3PiX1WT8lJaGUOcjmHZ6vFLWUlSb2p6mCUgcSGPa4j8FpOk7OjkZLGHNIfHIwEEatcxwuCPAQUIcubccmNfQVEm5p5amkc8mOWBrpSGHUNkDblpHC5Fj0IUsMWx2IuimnNFPHDBG575JmGFgY0XNi+2Y+AXKAz/4Pmy3VFXJiMrbxUfNjvwNU4an7LT6XtPQgN/4hRsqIZYJQTFMxzHgOcwljhZwzNIIuD0FCFk2Z2Hw/DJHy0UBhfIzI472eQFtweD3EcRxQpjfL5h2+wV8lrmlnhk042J3R/qX8yAwv4NNJefEZrdhDBGD/wBRz3H+mEBe/hJVmWiooL6yVTn28EcZb/qBAXDkI2u6toeopnXqaEAC/F9JwYfs9h4g3toDZ7WgXsALknTTU9KEOXeW+pM+PVDGgu3TaeJoGpJ3bXWA8p5Qpvvk32YGFYbBTEDfOG8mI6ah4GYX6cos0eBoQh7bT7E4fij45K2F0zomlrfjZ42gE3OjHAXOmvgHaQpecMoI6aGKnhaWxQsaxjSXOIY0WAu4knTtoQ5c5Z8O6nxyssLNmMczfDvGAuP386FOltkqLqfD6GDpipKdp8oRtB/G6EOcuU/Ba+qxmvmjoax7DNla9sE7mubG1sYIIbYjm8UKW/CNtMYwaM0UT3UoDzIYpoI84c8DX4xmbUAIDM+TblLxauxajpampa+CV0oc0RU7LgRPcNWtBGoHDtIDdu09W+CgrZ4jlkhpKmRjiA60jI3OabHQ6gIQ5s/tixzvxvqKX9CFMV2hx2pxCd1TVyCSZzWtLg1jBlaLAWaAEBv3kL/czPrNR7WrbDQ0VNTYKyNZF0AugClwTdLix53S5RmVILqXKLqoGO8oh/ZGI/VZFjLQsNUcqLUdJtfku5Wjh8baKva+WkbpHKyzpYQT2JBPPZ09sagXFgANy0XKFg8zQ9uJUrQRwlkbA7ztksR6EIYXyvcoGHyYXU0lLWRz1FRu2gQ3kaIw9rnkvAyjQEcelCntsXt7s/hlBT0bK4ExM57hBV8+d2sjvk+lxNvBYdCA1lymcoU1diD30VVPFSRNbHHunywB4GrpC0EG5JPHWwCAs2zO2dZT1tLPLW1T4o6iJ0jHyzSNMWYZwWk6826A3btZyk4HWUFZSiuBdPTTMb8TVW3hach7D6VkBhvIltlhmGUlU2tqdzNNUAhu7nkvE1jQ03Y0jiX6IC08uG19Jik1H1FLvooIpbuySR2ke5txZ4B4MHpQGG7GbRSYZXQVkdzu3WewfPhdo9h8Y4X4EA9CA6Rbys4GQD1eBcDQxVN/8iA05s/i+HTbR1WJV9Q1lLHUzSw5mSv3jw+0GjWkgAWdrbVoQGzdrOV7DWUNQaGq31WYy2JojnbaR2me7mgc2+bzIDnz/iKu79q/XTfqQG2+RvlGpqWlqIcUrXh/VAfG6bfzkscwAgEB1gCy9v5kBYeWXGsNxGuoailqRKwx7qZzWytyRtkuHEOaCdHv4X7FAbdHKvgY0Fe2w/uqn9CAf2sYH3+31VT+hAc9cpuMxV+L1lVA/eQyOjDH2c0FrI2MuA4AjVpQEcmeKw0eLUdTUv3cETpS59nOsDE9o0aCTqR0IDeO1HKjg09BXQxVuaSajqWMbuqkXkfE5rRcssLkjigOZ0AQHR3Icf2Mz6zUe1q2R0NFTUz+6phYXQthdBYXQWJugseWZCDMrcEXUYJzKpgx3lDP7IxH6rIsZaGUNUcsLWdAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAdF8iB/YzPrFR7WrOOhpnqZ9dZGAugJuguLqXKRdAeWZUxGZAMyAnMgLVtS7/0NXpm+Ifppr4NVoxP9KXcduzf/AG6e6+81Dm/uD/8AF714Vl2/qfd3l+n9BmPcP6XvSy7f1F5fp/QXPcP6fvSy7f1F5fp/QXPcPxjS0e39R736fmhc9wHpjS0e39R736a8ULnuA9Manu9t+Y979NeKHO7gPTGr7vbY9/8ATXivQc7uDfSxPd7bHv8A6a8V6E87uDfSz3J7vaY9/sLx/Yjndxb6We5Pd7THv9heP7Dndxb6W+5Pd7T/ADiLT7C8f2FndxZ95vuT3O0xafYXj+ws7uLPvN/Sl4dp/nEWn2I+P7Czu4s+8P0peHaf5xFqnYj4/sLO7jH94fpS8O0/ziLVOxH84Cz+4x/eH6UvDtP84i1TsR/OAyv7lH97/al4dp/nEZanYj+cBlf3KL73+1Lw7T/OIy1OzH84DK/uUXp/2peHaYy1OzH84DK/uUXp/wBqZodbGWp2Y/nA+4aeV7msZBG97jYNbdzie0AG6qxyydk5GM3KEXKSikvzqK//AIcxD/l7/Vy/oW3kJdUvzicvttHtQ/OBRyUU7ZN06naJbgbsh+8zHgMuW91raSll96/UdCm3DlFky9fQTVYfURW3tO2PNe2cPaDbjY5dUlFR1zEp1OU5mRmytgbjD4rhrTnm0bw7N3gXr4NrkVb56nyW2L+1yvbRadxkV11HljMgIzqWAzKgjMgPjMqYi6FGZARmQhbNp3HqKqtYncvsDoLrRibclK/Ud2zb+107a3NT5pvoR/ed+leDal1vyPu71+qPmbDwDYFlTSwTyTyMfLGHFrAwtF+FiRfhZd1PAwnFSu9/ceFiNtVqVWUMq3O3SU21mxUdFSPqI53ve10bWtkDQwlzgDcjXhc+ZYVsJTpRzNvyNmD2rXxNVU8sVr19HEodk9iqmtAmmeyCmPAta50rx05QTZo/mN/F0pRwkKkc29GWN2tPDzyRs3062RmR5OaLLbPUX+lnZf0ZbLo9gpfPxPO/neKvfd4GE7W7G1NCN7HKyamuBmLHCRhPAPAdYg8Mw9AXNXw0KSzWbXeengdpTxMsjaUu7XzGxOyxxDfmWcxiLdAGNg1Ls175ieFh6Uw1CnWvuat8y7Rx1fCOKTTvfo/cySXkvbY5K2QO6C6ONzfQCPaun2Gl8zzf55iOpeBguP4DU0MxhllY64DmvazmuYbi+p0OmoXDWhGlLK4+Z7mDryxVPPGferLcXPYzZN+IGYyVD444gwBzGR3L3X051+AH4hbsNShWu3HT5nLtLGVcJlUZXb+XQU+2Gzb6CdkTah72PiDg5zIwc2Yhw0FtLD0rDEwhSkko38TZs/EVMVTcpTs07dBctkthH10BnlqpYml5DMjIecBo5xu06X08xW/D0IVI5pRscmP2jUw9Tk4Svu36fYtGNbPmnr+om1MjgZIGhzhCHfGBvQG2+d+C01IKNXIobt3WdWHxEqmG5aU7Oz3bugu22OxUeH07ZhWzvL5WsDZBA1urXOPBvaat2IoRpxvGN2ceA2hUxFTLUlZWve/qWbZLA219V1OaqRo3T3kxmIus0tHC3bcFqoU3OVpQsu468diY0KWeE7u9rX9Cs2j2WipK2lo21cz3VG67Mxhw3kmQWAGvArZVouM4xjHd3GjDY1VKM6lSVmtFd79xVba7GwYbBHN1ZUPMkwjAkLANWucToP5fxWVehkjeCu+5GvBY916jjU3K19zZhmeLu0h+0/8AJctqvZXkepmw/al/yL7sds8zEqgxCWZsbGF73hz7gcGgX0uT+APaW2jTqTlZ2t8rHJjcVRoU7xu29E3Jd/UXzbDYGGgpTUsnqJcr2BzXFx5rjluMuvEt9K3VqLhG8X429DjwWPVarkqR8HJv6mK4BXQ01XT1DmVDmwyBxDRK4kC/AONj51z05TjNOUlbgehiacKlKUIRldrde5vTZzG46+nFREySNhc9uWYBr7tNjoCV6kJqauj5WvQlRnklqaxxiNj8XxKMNe2aXdsbISWtLTuN61pvo4x5xpxsR068UpPlZLMvl9z3KUUsLTk6baV7+dunRMnat0ZjntTlsEjG5GOYyCV1SKkkcyzdGR5wHW1a9oJJNha87X96y873Jgqd5JZLtO7s91rW1u97e/vL7sAAMPiAZk583NNu6O7RXVhHekt9/meTtZWxUvdtuW7gZFmXQeaQSgIuqBdALoD4uqQXQougF0IWzaa/UVVYgHcvtfUX8K0YlrkpX6ju2an7VTtrc1S5stid4zh9A/qXg5qXZ8z7lU63bX+P7m9jhsj8NbSxybqR1IyISWJyuyBpdYHxr3FD3Mq6j4jlbV+Ue/ffzNaY3spVU81HBNiDpxVzNblDS0AZ2NJ5zj9NcFanGEoxavd9b9T3sLiXVp1akfdyq+kfn8l1Gf7c4k+iobU53T3uZExzQDuxlJu0HS4a0geZdWJqulC8e48rZ2GWKr2m92rNPMmqGv3oq6kS3vvA4Z7+E21868tYiV7pK/E+oeBpuOVt26t3obowibrhhjTNxngkY+2l3DMxzh2tRfwL1qcuVpJyWqPk8RT9mxLjB6PcyxckFNko535nOL6i13HNo2NnDzkrVg7uDbVt/VY6tsuPLRUXfd136We+BbOVseJ1FZLM5sD5JyIt697XNcTkGTsW2Fj29PCVnThVVRuTVjXiK+GeHjCEXm3Xb8zGuV+sp31NPE6Ru8hieXAPLSN4WloNjxs2/n8K04t1LrIjs2QqKhJ1Xq1be/sZPsRDHh+DmpOjXRyVTiSTduW7dT/I1vpW+gpRpXlrqcGNlGriXGnpovzvPDlJwMVpw7K0Oe+d0QdYkBkjN4XG3QBESscTCc8uR23mzZ1elR5TlVfddd/4zKaDc05hoYgGiOnu1o+bEwtYL+Mk+OxXQrL3Tz5KUk5vrNfY1TsftLA0xkuL6d+fLcDJGXdl9hcc1J4he9u6rns0ZwWzpe5v377db6yt5YpwIqOMsMmaSV9gGm2VobfXyyrjdEs1jHYt1Kcsmbdbo+/cW3kgizVVTJujHkga25DBfO+9tD/drXgorM3mub9s1G6cIuGXf8uju7ysxZzptpKePd3bFurvu3TJG6Xhx4kelZTUZYlb966DXRc6ezZe7ud99/mloevK/UODKONjQ4l0zjc5bZQ0DoP0imOcLRUm+BNiRqZpygk9Fv8Az5GtS+b6MY8bnH8l5/8A4et+R9DfFPoj4s3DsbRdbsNdUVADZHsM0mW+jQOYwX1va2nbcV6tGEaNNvifKYytUxmJUN2uVW011KyVzsRwhx5olqKMnS5YKgN9gePwWbtVpaao1JPC4qyfNlqaPu/pmjH2R+bl5SjF6U35n1blJa1l4L1NyclZ/ZrLvD/jp+cLAdl4F6mFVqa3W+R8vtR3xDebNuW/h8jWm3sjeulaDUFvxjOYAzT4tngv/wCVyV4SdR2gn8z2MDUprDwTqtbtF3v5FhMzD/HlcfAD+TVqyz7MfL1OnPR6Jzfcn9kbQ2CcOt8Vi4jPNq++b5R3bXqYVPkle3TofLbUaeJla9t2uuhkN10WPPGZLAXQC6AXQHldAMyAZkAzIC27SXNHUgGxML9Ra49K0Yl2pSfyO3Z0c2KppO281lS0LpJI2GWQ55GN+YOycB2vCvFjVTkllR9pVoShCUnUluTeq6u43Hyh10lPQkwyPhkdLE0PjIDgNXG1/A0hepiqkqdO8dT5bZmHhXr5amlmzU8+JzSSwTT1Msz6aRr2bx9gC1zXW0toS0LzfaKzabV+B9H7DhIRcU7X/wB37m3cXoYMaw8BknMkyvY8E82Vt9HWPRzmkeNetJcpDduPlacvZq3vK9tzV9eKMAh5LakvyvEDWX1k3j3i3bDeJ8RsuJYfE3s5bj2pbRwCjeNNt9T9bmcY3WU+DYYImuDcsZihadXOlIPOsOOpLiuyo3CFlqePQjy9dOS3Xu7LRfm48+TWJkWEwuYA1jjO/QZdA9wvbxNCxwylGksz3mzaM4TxMsist3Rbo6j02G2iGJ0ZzF7Zoxkk0dG/Uc2RvauOkdIKtGeeFm9/TZmOMochVvGLyvS68jWdfg0zMR6hfHI98kzBviGnPG8/K3JudLk+FpXmvDPlMjlr3n0UNpJ0HVhT3JfKyf8A2bD5TKzqfDhDG25mfHEGghtom853Hos0D7S78VKKp5W7XPD2VCc8TnjG9t+ti8bL14lw6lqJLNLYAXkkHK5gLXm/mcttKadNSv0HLiqUo4iULb76d+himw2MS1mLVkz2hrHwERi5LhE2RgYCLaaG58JK5sPVhUqykm9D0cfhqmHwsKckrJ9Gt2j7xSbdbSU7nlgidC0XN8wkcyRjfBxsPOk5U44lX1twLRp1p7Ollayp6dO6xc+UHZeoxAQOppI2Ph3gLZQ7K5r8vAjgRl/Fbq9BVLO12vnY5MBjXh21eyfUk9O89dgdmZcOimNRKySaZzSd2LMbG0GwueJuXG/hVoUVTWljDHYuWIkt7aWl0l9DGNlKhtXtBUVDJs7Ms7mtGQtyNDIWuFtdQQfOtFJuVdtxt8zuxSjTwUIKpd7vdut2rLvyg7J1WITQvge1rIonNsZDGc7nXPBp6A1bK9OpNrLbic+AxNCjCSqOV2/h3fdGF7K7LCbEzSyue/qN2eaz5HR80izL6A3dYW7Qd2lppU6vKWlay6rHbi8Th+QvTzZnpdv/AKNnbT4rhzQaSve0iRrXGItmeC0O5pOQdtvA9pdk6kI7pNHjUcPXqe9Ti380j32XqaF0O6w8t3MLiMjWyNDS8lx0eL6kkqwqQnzXclehVpNcqmm+s0ntDh/U9ZVQtpWkRzPyn4sDITmb+BC8uraM2pVH5n0+FlKdGMoUVprdd3UbW5KwetrLsDPjp+aCCOy8C78Lbk1Z3PC2pm9oeaKTsty7jXW3W9651mXdBu8bYuzX+TZxsuGuqfKSum2e3gJV1hoZZQSt066ssDpJBxmhb5ve5a1CL0pv84G+Vaa51eC4L1Nk7CvvQxnOJOfNzm2A7N3aXrYVWpJWt8j5Xacs2Ik8+bTfwL/ddB54zIBmQDMgGZAeV0AuhSboQXQFu2jF6OpFyLxO1BsfMVpxDapSa6js2fFSxVNS0uazpmshkjla454pGPaXvcRnY4ObcE2OoGi8ZVa/QvI+xnh8HZqT/wCT9S57QbUyV0bYquaJ7GPDw0ZGc8Atvpx0cVsc8VJaPwsc0KGzaTumuLuWHNSjufmGZY5MS9W/E3ctgFolwV/sXbA9qH0JPUsjmNcbujEbnRuPbLbcfCLFWCrwd8y4tGuv7HWVnTfCLRkLuVOsLbNgZf6Qil9hfZb/AGipbnROFbOw97qFR+CMaxLG6iqk3kzZpX8AXZGgDtNF7NHiXLNKbvOoj1KDlRjlpUGl3r1LjTbZYjHAKZjGtiDCwA7q+U3vra99eK2xrqMcufd3HLPBOpUdV0d9775+iKDB8YraSQyU4jjcWlpzOztLeOoy+Ba6U6VJ3i34I6MTQxGJjlqRjbXV+hXz7VYlJNFUPdS72APDH7u5AcLHtX6fStjxcMylZ3Xcc8dk1FCVNNJO117z04lNjWM11bu+qJ4zu82XJEGgZrX6deAWFXFRqWzRvxN2G2bPD3yVLX+XqxHjFYykdRdVWgfe4EcYfYuzEZu0T7SixMsuSMN3Ektn03V5WdV5uvcjxwTGJKCR0sNSA9zCw7zdOGUkHgR22hWE60eZC3BmNajhJq1Ws33yR449jIrZd9Uzh0gY1nxbsjcrSSNGdPOOqzbxUndx8l9zXCOzoLLGbt8m/sXrDeUWqgYI2zb9rQAN9G+V9vLFi7xklZRniVq1xsaqmH2fPmxn/an9zxxfbmsq2GN5lEThZzIo921w7TiTcjwXssZzqy1qJdxso0MPTd40JyfzXrZFvwPG56F7pKWDdvczIS5sXYXBtr4QPQsYTyO/K+TZtrUeXSi8O7d6j9C9/wBoWLHgIh4xH+QWz2tL434HN/Km9KSXfN/ZFHQbVYlA6Z8Rp2OqJC97i0vJefNoNTp4SsIYmEG3G+/uN1XZtWqoqeVKKst8i24nW1VTK+aeeLePtchlhoAAACdNAsJThUlmyNvvNtKjUoQUFWjFL5L7s9sE2jqKAyGGsjG9y5g5kThzb2tr4SttOVWH9OnbxObEU8LVty+Ivbu+xR4xjHVczp5qlzpHBoO6GRpyiw0aONgFXy7d3GPGwpvBwjljUm11K/2RdcD21qKKEQU7nmMOc7nxGR13G55zkVStHWcUYyoYWo78lUb4/cs+JVRq55KiSmfJNKQXGzWgkANGl9NAFM05P+r4JmcadKCssN/k4r6s+oMMqHfJ4efGR7moqTl8U3wf3I8VGGkKS75L7I2NshBLFSMZNGInh8hyDoaXXF/DxXpYeGSmlv46nzuPq8rXct3RzdPMvOZbjjGZUE3QEZlATmVB5XQougJzICMygLdtJlNHU57Zdy+99BbputOIzcnLLqdeBye0Q5Tm333NXZqUdy8wDl5HJ4l638T61V9nrRR4Rv8AY+hVQDsW38mN3uWLoVOmS4s2LGUFzYPhB+h9isHzYpT4mW9pWPILpmjP2yXw0peCX1ZPVLzwgf5yxv5qclS6Z+THtGIelF8ZL9xvZjwiaPKf7grloL4n4DlMY9IRXfJ/ZD489xH33JeguhjLjX0wXBsbuY/xGDxMJ9pU5Sivg8xyGKetVcIodTydM7vM1jfyWSqx6Ka82YvDz+Ou/JHm6Fo7Kof53tb7FmpVXzaa8DTKnhlz67/z9DyIpumUu/xHu9hWf+q6rcEjS3s3plfjJkDqXoYXeJsjvao1iOmaXFFU8D8NJv8Asb+p6NfH82mef8No9qxcH8VVeLZujWiuZhn4JHo2V/zae3jcxvsWGSl0z8jaq2KfNopd8l9kTvZ/oRt8p5PsCn+n62/AZsc+iC4t+h6R01U/sQ37Ecj1mo0+inJmmVSuufXhHh6sqo8Arn91H+Gxn+ZbVSl0UfFnNPE01z8U/wC1L0ZUx7HVbuye8eVIxv8AlBW1UK/RGK/OJzTxuDWtWpLjb0KmPYJx7OVvnfM/3LasPX7aXcjmljsCtKUn3yfqysh2AgHZPB8TP1OKz9lm+dUfDcantOiuZh48d5XQ7GUjehx+432NV9ih8Tb4mL2xWXMjFd0V9yui2dpG8Ib+U55/C9lmsHRXw+JqltbGS/8Ao+Fl9Cqiw2nb2MEQ+w0lbI0qcdIrwOaeLrz502+LKpgDeAA8QAWw53d6k5lSC6FF0AugF0IMyEGZAed1DMXQC6Am6At20TwKSpLuxETr6X08XStGIi3SkkdeAmoYmEpaJ9/ka1bWs+bHIfJYQvG9nfxTXifZLHp8ylN/22+p9dVvPCCT7WVv5qcjTWs1wTL7XiHzaL4tIjfTHhC0eU8fkEy0F8T8ByuNelOK75P7IfHnuLfvuS+HXQ34DLjn8UFwbBim6Zmt8lg/MpytFaQ8WPZsU9a3hFfuSyke7+NI7yA0ewKqtfm014NmEsLb+pXl4pfYqI8Clf8AMqn+PeAewLapYh82Hl6nNOGz48+rf+9v6MqY9kZHf+3Pje8fm5bFDGP5eBodfZMOi/Bv6lZDsY/6FO3x6n8Gq+yYiXOn5sw/m2AhzKXkkV0OyFuMrG+Qz/8AQqtnN86Zi/4giuZS8/RFXHsrEOylkPiyNHsK2LZ1NatnPL+IMQ+bGK8fUqY9m6UcWvd5T3flZbVgaC6PNnNLbOMl8Vu5Iqo8Hpm8II/tDN/mutscPSWkUc0sfipa1JeJVRwRt7GNjfJa0exbVFLRHNKpKWrbPXMsjAZlAMyoGZALoBdALoBdALoBdARdALqkGZAMyAZkAuhDzzKGQzIBmQDMgKbEYjLDJG2wc9hAvcC/hWqtB1KcorpOnB1lQrwqS0TuY7HsvKeyljHiDne5eatmy6ZI+il/EUPhpvi7epUR7Kt+dM4+S0D2krYtmw6ZM5p/xDV+GCXfd+hUx7M044mR3jcB7AtiwFFa38TmntzFy0aXD1uVEeB0zf4QPlF7vaVtWEor4Uc09qYuWtR8N30KmOihb2MMY+y33LdGnBaJHNPEVp86bfFlS2w4ADxaLI1aglCDMlwLpcE3QC6Ai6twLpcC6lwTdW4sRdLiwzKkF0FhmQDMgGZATmQDMgF0AzICLoBmQC6AXQEZkB83WJkLoBdALoBdALoBdALoBdALoQXQougF0ILoUXQC6AXQC6AXQC6AXQC6EF0KRdCC6AXQC6qAzIBmVIMyAZkAzIBmUAuqBdCnxmWJRmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgGZAMyAZkAzIBmQDMgIulwLpclhmVJYZkLYZkFiLpcE5kAzIDzzKFGZAMyAZkAzICMyAnMgGZAMyFGZCDMgGZARmQE5kBGZAMyWAzK2AzJYgzJYozJYDMoBmQDMgGZATmQDMgGZAMyAjMlgMypBmQDMgGZAMyWAzKg88yxAzIBdALoBdALoCMyAnMgGZAMyAZkBGZATdALoBdALoBdALqgXQC6AXQC6AXUAuqBdALoBdQC6AXVAuoBdALqgXQC6AXQH/2Q==" group-title="FRANCE SPORT",|FR| CANAL+ FORMULA1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108538.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ MOTO GP FHD  " tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="FRANCE SPORT",|FR| CANAL+ MOTO GP FHD  
+http://x.v-iptv.com:25443/live/rita33/novert6622/15147.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME MULTIPLEX SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME MULTIPLEX SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126666.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME MULTIPLEX HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME MULTIPLEX HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126667.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME MULTIPLEX FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME MULTIPLEX FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124796.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 1 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 1 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108558.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 1 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108559.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 1 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108560.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 2 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 2 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124486.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 2 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124485.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 2 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124484.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 3 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 3 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124489.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 3 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124488.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 3 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 3 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124487.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 4 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 4 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124492.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 4 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 4 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124491.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 4 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 4 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124490.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 5 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 5 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124495.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 5 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 5 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124494.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 5 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 5 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124493.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 6 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 6 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124520.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 6 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 6 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124523.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 6 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 6 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124524.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 7 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 7 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124521.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 7 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 7 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124525.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 7 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 7 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124526.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 8 SD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 8 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124522.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 8 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 8 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124527.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 8 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 8 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124559.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LIVE 9 HD " tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 9 HD 
+http://x.v-iptv.com:25443/live/rita33/novert6622/124560.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE 1 LiVE 9 FHD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LiVE 9 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/124561.ts
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="|FR| BEIN SPORT 1" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 1
+http://x.v-iptv.com:25443/live/rita33/novert6622/15204.ts
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="|FR| BEIN SPORT 1 HD" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9340.ts
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="|FR| BEIN SPORT 1 HD BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 1 HD BKP
+http://x.v-iptv.com:25443/live/rita33/novert6622/9345.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 1 FHD" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/51102.ts
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORT 2" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 2
+http://x.v-iptv.com:25443/live/rita33/novert6622/15203.ts
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORT 2 HD" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9339.ts
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORT 2 HD BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 2 HD BKP
+http://x.v-iptv.com:25443/live/rita33/novert6622/9344.ts
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORT 2 FHD" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9588.ts
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORT 2 FHD BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 2 FHD BKP
+http://x.v-iptv.com:25443/live/rita33/novert6622/51101.ts
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORT 3" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 3
+http://x.v-iptv.com:25443/live/rita33/novert6622/15202.ts
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR|  BEIN SPORT 3 HD" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",|FR|  BEIN SPORT 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9341.ts
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORT 3 HD BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 3 HD BKP
+http://x.v-iptv.com:25443/live/rita33/novert6622/9343.ts
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORT 3 FHD" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 3 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9587.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 3 FHD BKP" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png" group-title="FRANCE SPORT",|FR| BEIN SPORT 3 FHD BKP
+http://x.v-iptv.com:25443/live/rita33/novert6622/51100.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT NEWS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg" group-title="FRANCE SPORT",|FR| RMC SPORT NEWS FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40481.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 4K" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport.png" group-title="FRANCE SPORT",|FR| RMC SPORT 4K
+http://x.v-iptv.com:25443/live/rita33/novert6622/108552.ts
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 1 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15127.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9218.ts
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR| RMC SPORT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9502.ts
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 2 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15126.ts
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9217.ts
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9501.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 SD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 3 SD
+http://x.v-iptv.com:25443/live/rita33/novert6622/50978.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/50979.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 3 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/50980.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT 4" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 4
+http://x.v-iptv.com:25443/live/rita33/novert6622/15124.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT 4 HD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 4 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9215.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT 4 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9499.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 1" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 1
+http://x.v-iptv.com:25443/live/rita33/novert6622/126960.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 1 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139104.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 2 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126961.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 2 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139105.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 3 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126962.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 3 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 3 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139106.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 4 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 4 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126963.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 4 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 4 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139107.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 5 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 5 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126964.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 5 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 5 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139108.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 6 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 6 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126965.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 6 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 6 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139109.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 7 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 7 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126966.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 7 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 7 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139110.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 8 HD" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 8 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/126967.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LIGUE DEUX LIVE 8 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 8 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139111.ts
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="|FR| MULTISPORTS 1 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-1.png" group-title="FRANCE SPORT",|FR| MULTISPORTS 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108540.ts
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="|FR| MULTISPORTS 2 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-2-1.png" group-title="FRANCE SPORT",|FR| MULTISPORTS 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108541.ts
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="|FR| MULTISPORTS 3 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-3-1.png" group-title="FRANCE SPORT",|FR| MULTISPORTS 3 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108542.ts
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="|FR| MULTISPORTS 4 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-4.png" group-title="FRANCE SPORT",|FR| MULTISPORTS 4 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108543.ts
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="|FR| MULTISPORTS 6 FHD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/106.png" group-title="FRANCE SPORT",|FR| MULTISPORTS 6 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108545.ts
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="|FR| MULTISPORTS 5 FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-5.png" group-title="FRANCE SPORT",|FR| MULTISPORTS 5 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108544.ts
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="|FR| BEIN SPORT MAX 4 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein4Max.fr.png" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 4 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15210.ts
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="|FR| BEIN SPORT MAX 5 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein5Max.fr.png" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 5 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15209.ts
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="|FR| BEIN SPORT MAX 6 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein6Max.fr.png" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 6 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15208.ts
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="|FR| BEIN SPORT MAX 7 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein7Max.fr.png" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 7 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15207.ts
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="|FR| BEIN SPORT MAX 8 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein8Max.fr.png" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 8 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15206.ts
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="|FR| BEIN SPORT MAX 9 HD" tvg-logo="http://one-iptv.com/imageslogo/Bein9Max.fr.png" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 9 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15205.ts
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="|FR| BEIN SPORT MAX 10 hd" tvg-logo="http://one-iptv.com/logoX/bein/beinmax10.png" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 10 hd
+http://x.v-iptv.com:25443/live/rita33/novert6622/15211.ts
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive5.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 5 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40480.ts
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive6.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 6 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40479.ts
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive7.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 7 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40478.ts
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive8.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 8 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40477.ts
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive9.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 9 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40476.ts
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive10.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 10 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40475.ts
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive11.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 11 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40474.ts
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive12.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 12 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40473.ts
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="|FR| RMC SPORT LIVE 13 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive13.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 13 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40472.ts
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="|FR| RMC SPORT LIVE 14 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive14.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 14 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40471.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT LIVE 15 FHD" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive15.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 15 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/40470.ts
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="|FR| RMC SPORT ACCESS 1" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess1.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT ACCESS 1
+http://x.v-iptv.com:25443/live/rita33/novert6622/40484.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| RMC SPORT ACCESS 2" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess2.fr.png" group-title="FRANCE SPORT",|FR| RMC SPORT ACCESS 2
+http://x.v-iptv.com:25443/live/rita33/novert6622/40483.ts
+#EXTINF:-1 tvg-id="Eurosport360.fr" tvg-name="|FR| EUROSPORT 360 FHD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/Eurosport360Logo.png/revision/latest?cb=20160505032906" group-title="FRANCE SPORT",|FR| EUROSPORT 360 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/108539.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",|FR| EUROSPORT 1
+http://x.v-iptv.com:25443/live/rita33/novert6622/15172.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1 HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",|FR| EUROSPORT 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9281.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1 FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",|FR| EUROSPORT 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9549.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1 FHD BKP" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="FRANCE SPORT",|FR| EUROSPORT 1 FHD BKP
+http://x.v-iptv.com:25443/live/rita33/novert6622/51105.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",|FR| EUROSPORT 2
+http://x.v-iptv.com:25443/live/rita33/novert6622/9279.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",|FR| EUROSPORT 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9280.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",|FR| EUROSPORT 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9548.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 FHD BKP" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="FRANCE SPORT",|FR| EUROSPORT 2 FHD BKP
+http://x.v-iptv.com:25443/live/rita33/novert6622/51106.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 1" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 1
+http://x.v-iptv.com:25443/live/rita33/novert6622/139080.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 1 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 1 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139081.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 1 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 1 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139082.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 2" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 2
+http://x.v-iptv.com:25443/live/rita33/novert6622/139083.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 2 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 2 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139084.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 2 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 2 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139085.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 3" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 3
+http://x.v-iptv.com:25443/live/rita33/novert6622/139086.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 3 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 3 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139087.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 3 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 3 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139088.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 4" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 4
+http://x.v-iptv.com:25443/live/rita33/novert6622/139089.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 4 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 4 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139090.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 4 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 4 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139091.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 5" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 5
+http://x.v-iptv.com:25443/live/rita33/novert6622/139092.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 5 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 5 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139093.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 5 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 5 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139094.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 6" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 6
+http://x.v-iptv.com:25443/live/rita33/novert6622/139095.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 6 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 6 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139096.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 6 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 6 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139097.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 7" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 7
+http://x.v-iptv.com:25443/live/rita33/novert6622/139098.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 7 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 7 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139099.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 7 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 7 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139100.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 8" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 8
+http://x.v-iptv.com:25443/live/rita33/novert6622/139101.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 8 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 8 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139102.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 8 FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 360 8 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/139103.ts
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="|FR| INFOSPORT+" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",|FR| INFOSPORT+
+http://x.v-iptv.com:25443/live/rita33/novert6622/9265.ts
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="|FR| INFOSPORT HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",|FR| INFOSPORT HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15156.ts
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="|FR| INFOSPORT FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/infosport.png" group-title="FRANCE SPORT",|FR| INFOSPORT FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9534.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| FOOT+ 24/24" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="FRANCE SPORT",|FR| FOOT+ 24/24
+http://x.v-iptv.com:25443/live/rita33/novert6622/32819.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| FOOT+ 24/24 FHD" tvg-logo="http://one-iptv.com/imageslogo/FootPlus24.fr.png" group-title="FRANCE SPORT",|FR| FOOT+ 24/24 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/51104.ts
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="|FR| LEQUIPE 21" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",|FR| LEQUIPE 21
+http://x.v-iptv.com:25443/live/rita33/novert6622/9264.ts
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="|FR| LEQUIPE 21 HD" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",|FR| LEQUIPE 21 HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15155.ts
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="|FR| LEQUIPE 21 FHD" tvg-logo="http://one-iptv.com/imageslogo/LEquipe21.fr.png" group-title="FRANCE SPORT",|FR| LEQUIPE 21 FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9533.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| GOLF+" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",|FR| GOLF+
+http://x.v-iptv.com:25443/live/rita33/novert6622/9270.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| GOLF+ " tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",|FR| GOLF+ 
+http://x.v-iptv.com:25443/live/rita33/novert6622/15161.ts
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="|FR| GOLF+" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",|FR| GOLF+
+http://x.v-iptv.com:25443/live/rita33/novert6622/43446.ts
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="|FR| GOLF+ FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",|FR| GOLF+ FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9540.ts
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="|FR| GOLF+ FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",|FR| GOLF+ FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/51107.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| GOLF CHANNEL" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",|FR| GOLF CHANNEL
+http://x.v-iptv.com:25443/live/rita33/novert6622/9378.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| GOLF CHANNEL HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/golfchannel.png" group-title="FRANCE SPORT",|FR| GOLF CHANNEL HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15162.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| GOLF CHANNEL FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="FRANCE SPORT",|FR| GOLF CHANNEL FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9539.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| GOLF CHANNEL FHD BKP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQugFweLfaFBmshhayVkjhUdMmiBCkqWd9AGdQUwZTcvuVahoGsb-kP6GoR&s" group-title="FRANCE SPORT",|FR| GOLF CHANNEL FHD BKP
+http://x.v-iptv.com:25443/live/rita33/novert6622/51103.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/canalsport.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9326.ts
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="|FR| EQUIDIA LIVE" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",|FR| EQUIDIA LIVE
+http://x.v-iptv.com:25443/live/rita33/novert6622/9282.ts
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="|FR| EQUIDIA LIVE HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",|FR| EQUIDIA LIVE HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15173.ts
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="|FR| EQUIDIA LIVE FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/equidialive.png" group-title="FRANCE SPORT",|FR| EQUIDIA LIVE FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9550.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| EXTREME SPORTS HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/exetremsport.png" group-title="FRANCE SPORT",|FR| EXTREME SPORTS HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/15227.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|FR| AB MOTEUR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY3K20QZdRxwPziWeJswxGsMPMQIUma8zTCXyOsJzQLjZykTpCWLGWnBwo" group-title="FRANCE SPORT",|FR| AB MOTEUR
+http://x.v-iptv.com:25443/live/rita33/novert6622/9359.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AUTOMOTO LA CHAINE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-et9FpRmxqUML9AdSb5AN63QxOsIosG0-dtE_Ua0_fBNdzIAsuvxtQ&s" group-title="FRANCE SPORT",|FR| AUTOMOTO LA CHAINE FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/62915.ts
+#EXTINF:-1 tvg-id="12Keshet.il" tvg-name="|FR| MOTORSPORT TV FHD" tvg-logo="http://one-iptv.com/imageslogo/AutoMotorundSportChannel.de.png" group-title="FRANCE SPORT",|FR| MOTORSPORT TV FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9526.ts
+#EXTINF:-1 tvg-id="12Keshet.il" tvg-name="|FR| EXTREME SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT507CGjMZoJnsQJBFePHl16jbY4vBLFOdmtyj7_0s0qjrCIeKzhou6bw&s" group-title="FRANCE SPORT",|FR| EXTREME SPORTS FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/62916.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AEROSTAR TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyiUWgbX3ZHXqAMbbMPHtYO_EdlAqNLgFCQPdf8-EqfGMdDg3Wi6YdA&s" group-title="FRANCE SPORT",|FR| AEROSTAR TV FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/62917.ts
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="|FR| EQUIDIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR90nXy7szyAC4JQ2nzx85uNUHW4iXoGeHptksbbVAA7No5RxN5a018vWKn&s" group-title="FRANCE SPORT",|FR| EQUIDIA HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/51140.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NAUTICAL CHANNEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCFh-gPBdDx7oOf532Od8MYqM70OyvVlCbOnVP3PyiXVITIVZx4hASujV&s" group-title="FRANCE SPORT",|FR| NAUTICAL CHANNEL HD
+http://x.v-iptv.com:25443/live/rita33/novert6622/62912.ts
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="|FR| OL TV FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/oltv.png" group-title="FRANCE SPORT",|FR| OL TV FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/9243.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHEVAL TV FHD" tvg-logo="" group-title="FRANCE SPORT",|FR| CHEVAL TV FHD
+http://x.v-iptv.com:25443/live/rita33/novert6622/271135.ts
